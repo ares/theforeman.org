@@ -1,0 +1,22 @@
+---
+layout: plugin_index
+title: Foreman Chef documentation
+---
+
+# Foreman Chef manuals
+-----------------------------
+
+<div class='row plugin-manual'>
+	<div class='col-md-4 center'>
+		<a href="plugins/foreman_chef/0.1/index.html" class="btn-doc btn">
+			<i class="fa fa-newspaper-o"></i>
+			<p id='manual'>0.1</p>
+		</a>
+	</div>
+	<div class='col-md-4 center'>
+		<a href="plugins/foreman_chef/0.2/index.html" class="btn-doc btn">
+			<i class="fa fa-newspaper-o"></i>
+			<p id='manual'>0.2</p>
+		</a>
+	</div>
+</div>
